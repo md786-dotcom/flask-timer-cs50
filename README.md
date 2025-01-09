@@ -14,6 +14,14 @@ Description:
 
 I decided to structure my project directory in this way to follow the convention with flask web programmes as outlined in Lecture 9. Further, I followed the naming convention too due to the same reason.
 
+## Installation and Setup
+
+1. Clone the Repo - git clone https://github.com/md786-dotcom/flask-timer-cs50.git
+2. Create virtual enviorment: a) python -m venv venv b) source venv/bin/activate # On Windows: venv\Scripts\activate
+3. Install dependencies - pip install -r requirements.txt
+4. Run - python app.py
+5. Open http://localhost:5000 in your browser
+
 # Features
 - **Customizable Timer Setting**: Users can input any duration in minutes other than 1 minute
 - **Real-time Counter Display**: Shows remaining time in MM:SS format
