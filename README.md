@@ -19,7 +19,7 @@ I decided to structure my project directory in this way to follow the convention
 1. Clone the Repo - git clone https://github.com/md786-dotcom/flask-timer-cs50.git
 2. Create virtual enviorment: a) python -m venv venv b) source venv/bin/activate # On Windows: venv\Scripts\activate
 3. Install dependencies - pip install -r requirements.txt
-4. Run - python app.py
+4. Run - python app.py/ python3 app.py
 5. Open http://localhost:5000 in your browser
 
 # Features
