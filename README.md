@@ -20,7 +20,7 @@ I decided to structure my project directory in this way to follow the convention
 2. Create virtual enviorment: a) python -m venv venv b) source venv/bin/activate # On Windows: venv\Scripts\activate
 3. Install dependencies - pip install -r requirements.txt
 4. Run - python app.py/ python3 app.py
-5. Open http://localhost:5000 in your browser
+5. Open http://localhost:5000 in your browser / http://127.0.0.1:5000 
 
 # Features
 - **Customizable Timer Setting**: Users can input any duration in minutes other than 1 minute
